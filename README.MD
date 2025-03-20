@@ -1,1 +1,2 @@
-# Regression
+# Machine Learning Algorithms
+
